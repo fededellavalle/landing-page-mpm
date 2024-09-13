@@ -1,0 +1,41 @@
+.mundo-pyme-section {
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.main-container{
+  background-color: #E1F4FB;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.mundo-pyme-text {
+  color: #4232D2;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.mundo-pyme-logo img {
+  max-width: 200px;
+}
+
+.mundo-pyme-logo .btn {
+  background-color: #3933D3;
+  border-color: #3933D3;
+  color: #ffffff;
+}
+
+.mundo-pyme-logo .btn:hover {
+  background-color: #0d38e6;
+  border-color: #0d38e6;
+}
+
+@media (max-width: 768px) {
+  .mundo-pyme-section {
+    text-align: center;
+  }
+
+  .mundo-pyme-text {
+    margin-bottom: 20px;
+  }
+}
