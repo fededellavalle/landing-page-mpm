@@ -20,6 +20,22 @@ La landing page de **MPM - Socios** presenta un carrusel que despliega imágenes
 - **React Slick**: Componente de carrusel fácil de configurar y personalizar.
 - **Git**: Control de versiones.
 
+## **Instalación y Ejecución**
+
+Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
+
+1. Clona este repositorio:
+   git clone https://github.com/fededellavalle/landing-page-mpm.git
+   
+2. Navega al directorio del proyecto:
+   cd "tu directorio"
+   
+3. Instala las dependencias:
+   npm install
+   
+4. Ejecuta el proyecto en modo de desarrollo:
+   npm start
+
 ## **Contacto**
 
 - **Nombre**: Federico Matias Dellavalle
