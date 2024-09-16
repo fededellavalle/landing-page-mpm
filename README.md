@@ -1,6 +1,6 @@
 # **Landing Page MPM - Socios**
 
-Este proyecto es una **landing page** dinámica diseñada para la empresa **MPM**. La página destaca a los socios comerciales de la empresa, mostrando una galería interactiva y visualmente atractiva.
+Este proyecto es una **landing page** dinámica. La página destaca a los socios comerciales de la empresa, mostrando una galería interactiva y visualmente atractiva.
 
 ## **Descripción del Proyecto**
 
